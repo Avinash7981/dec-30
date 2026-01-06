@@ -1,4 +1,4 @@
-var x=45;
+var x=45; 
 var y=56;
 var z='45';
 var result1=x==z; //true
